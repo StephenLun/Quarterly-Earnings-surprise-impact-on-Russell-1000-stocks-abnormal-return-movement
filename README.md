@@ -30,3 +30,5 @@ h. Repeat steps a to g 40 times to create 40 samplings and then calculate
 - Standard Deviation of AAR and CAAR for each group
 
 Generate a gnuplot chart show the averaged CAAR of all three groups.
+
+![Result](https://user-images.githubusercontent.com/47517421/147396727-eddce93d-5ee7-431a-991e-c5dd9ba26bf4.png)
